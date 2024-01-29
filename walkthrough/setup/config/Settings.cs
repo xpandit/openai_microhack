@@ -134,8 +134,8 @@ public static class Settings
         if (!File.Exists(configFile))
         {
             Console.WriteLine("Configuration not found: " + configFile);
-            Console.WriteLine("\nPlease run the Setup Notebook (0-AI-settings.ipynb) to configure your AI backend first.\n");
-            throw new Exception("Configuration not found, please setup the notebooks first using notebook 0-AI-settings.pynb");
+            Console.WriteLine("\nPlease run the Setup Notebook (setup.ipynb) to configure your AI backend first.\n");
+            throw new Exception("Configuration not found, please setup the notebooks first using notebook setup.ipynb");
         }
 
         try
