@@ -20,7 +20,14 @@ public static class SkiaUtils
             await stream.CopyToAsync(memStream);
             memStream.Seek(0, SeekOrigin.Begin);
             SKBitmap webBitmap = SKBitmap.Decode(memStream);
-            canvas.DrawBitmap(webBitmap, 0, 0, null);
+
+            // Calculate the new height based on the aspect ratio
+            int newHeight = (int)((float)webBitmap.Height / webBitmap.Width * width);
+
+            // Resize the bitmap
+            SKBitmap resizedBitmap = webBitmap.Resize(new SKImageInfo(width, newHeight), SKFilterQuality.High);
+
+            canvas.DrawBitmap(resizedBitmap, 0, 0, null);
             surface.Draw(canvas, 0, 0, null);
         };
         surface.Snapshot().Display();
