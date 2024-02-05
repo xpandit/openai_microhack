@@ -1,5 +1,7 @@
 // Copyright (c) Microsoft. All rights reserved.
 
+using Microsoft.SemanticKernel.ChatCompletion;
+
 // ReSharper disable InconsistentNaming
 public static class Utils
 {
