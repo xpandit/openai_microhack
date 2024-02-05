@@ -22,4 +22,14 @@ public static class Utils
 
         return result.ToString();
     }
+
+    // Function to print the latest message in the chat history
+    public static Task MessageOutputAsync(ChatHistory chatHistory)
+    {
+        var message = chatHistory.Last();
+        Console.WriteLine($"{message.Role}: {message.Content}");
+        Console.WriteLine("------------------------");
+
+        return Task.CompletedTask;
+    }
 }
