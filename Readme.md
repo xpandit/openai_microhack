@@ -14,6 +14,8 @@ This lab is not a full explanation of Semantic Kernel as a technology, please co
 
 [Semantic Kernel Docs](https://learn.microsoft.com/en-us/semantic-kernel/) (read this after completing this lab to take your learning even deeper!)
 
+[Prompt Engineering](https://learn.microsoft.com/en-us/semantic-kernel/prompts/) (to help out creating the prompts)
+
 # MicroHack context
 This MicroHack scenario walks through the use of Azure OpenAI Services and Semantic Kernel with a focus on the best practices and the design principles. It will guide you throught the concepts of Generative AI and how to use it in your applications. You'll learn how to use Semantic Kernel to integrate your Azure OpenAI models into your applications, either to generate text or to understand and interpret text.
 
@@ -39,6 +41,9 @@ In order to use the MicroHack time most effectively, the following tasks should 
 * VS Code with DevContainers extension installed (if you want to run it locally)
 
 ### Setup your environment
+
+Use these [Settings](https://pastebin.com/rKTke1Fw)
+
 Go to [Setup](./walkthrough/setup/setup.ipynb) to setup your environment. You will find the instructions to setup your environment and the required resources.
 
 ### Challenge 1 - Initialize the Kernel and Run Semantic Functions
