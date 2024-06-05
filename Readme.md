@@ -47,19 +47,19 @@ Use these [Settings](https://pastebin.com/rKTke1Fw)
 Go to [Setup](./walkthrough/setup/setup.ipynb) to setup your environment. You will find the instructions to setup your environment and the required resources.
 
 ### Challenge 1 - Initialize the Kernel and Run Semantic Functions
-Go to [Challenge 1](./walkthrough/challenge-1/setup.ipynb) to start the first challenge. You will learn how to initialize the Kernel and how to run Semantic Functions.
+Go to [Challenge 1](./walkthrough/challenge-1/solution.ipynb) to start the first challenge. You will learn how to initialize the Kernel and how to run Semantic Functions.
 
 ### Challenge 2 - Generate images with DALL-E 3 and interact with images with GPT-4 Vision
-Go to [Challenge 2](./walkthrough/challenge-2/setup.ipynb) to start the second challenge. You will learn how to generate images with DALL-E 3 and interact with images with GPT-4 Vision.
+Go to [Challenge 2](./walkthrough/challenge-2/solution.ipynb) to start the second challenge. You will learn how to generate images with DALL-E 3 and interact with images with GPT-4 Vision.
 
 ### Challenge 3 - Chat with structured data using Plugins and Planners
-Go to [Challenge 3](./walkthrough/challenge-3/setup.ipynb) to start the third challenge. You will learn how to chat with structured data using Plugins and Planners, that are advanced features of Semantic Kernel that will allow you to create more complex AI applications.
+Go to [Challenge 3](./walkthrough/challenge-3/solution.ipynb) to start the third challenge. You will learn how to chat with structured data using Plugins and Planners, that are advanced features of Semantic Kernel that will allow you to create more complex AI applications.
 
 ### Challenge 4 - Chat with your own data
-Go to [Challenge 4](./walkthrough/challenge-4/setup.ipynb) to start the fourth challenge. You will learn how to chat with your own data using the Semantic Kernel. In this challenge you will be introduced with the concepts of Retrieval Augmented Generation (RAG) and how to use it to chat with your own data.
+Go to [Challenge 4](./walkthrough/challenge-4/solution.ipynb) to start the fourth challenge. You will learn how to chat with your own data using the Semantic Kernel. In this challenge you will be introduced with the concepts of Retrieval Augmented Generation (RAG) and how to use it to chat with your own data.
 
 ### Challenge 5 - Multi-Agent Chatroom
-Go to [Challenge 5](./walkthrough/challenge-5/setup.ipynb) to start the fifth challenge. You will learn how to create a Multi-Agent Chatroom using the Semantic Kernel. In this challenge you will be introduced with the concepts of Multi-Agent Chatroom and how to use it to chat with multiple agents.
+Go to [Challenge 5](./walkthrough/challenge-5/solution.ipynb) to start the fifth challenge. You will learn how to create a Multi-Agent Chatroom using the Semantic Kernel. In this challenge you will be introduced with the concepts of Multi-Agent Chatroom and how to use it to chat with multiple agents.
 
 ## Finish
 
