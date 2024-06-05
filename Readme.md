@@ -1,5 +1,4 @@
-# **Master Template MicroHack**
-# **MicroHack Template**
+# **Azure OpenAI and Semantic Kernel MicroHack**
 
 - [**MicroHack introduction**](#MicroHack-introduction)
 - [**MicroHack context**](#microhack-context)
