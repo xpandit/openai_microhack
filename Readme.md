@@ -58,6 +58,9 @@ Go to [Challenge 3](./walkthrough/challenge-3/setup.ipynb) to start the third ch
 ### Challenge 4 - Chat with your own data
 Go to [Challenge 4](./walkthrough/challenge-4/setup.ipynb) to start the fourth challenge. You will learn how to chat with your own data using the Semantic Kernel. In this challenge you will be introduced with the concepts of Retrieval Augmented Generation (RAG) and how to use it to chat with your own data.
 
+### Challenge 5 - Multi-Agent Chatroom
+Go to [Challenge 5](./walkthrough/challenge-5/setup.ipynb) to start the fifth challenge. You will learn how to create a Multi-Agent Chatroom using the Semantic Kernel. In this challenge you will be introduced with the concepts of Multi-Agent Chatroom and how to use it to chat with multiple agents.
+
 ## Finish
 
 Congratulations! You finished the Generative AI MicroHack. We hope you had the chance to learn about the how to implement a successful application using Azure OpenAI Services and Semantic Kernel.
