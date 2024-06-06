@@ -41,7 +41,7 @@ In order to use the MicroHack time most effectively, the following tasks should 
 
 ### Setup your environment
 
-Use these [Settings](https://pastebin.com/rKTke1Fw)
+Use these [Settings](https://pastebin.com/Y9xk3caW)
 
 Go to [Setup](./walkthrough/setup/setup.ipynb) to setup your environment. You will find the instructions to setup your environment and the required resources.
 
